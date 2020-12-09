@@ -9,7 +9,7 @@
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
 const A187 = '👾CAHYO BOT👾'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://instagram.com/_sadboy.ig'; // JANGAN UBAH-UBAH INFO!!!
+const instagram = 'https://instagram.com/hananda_cf'; // JANGAN UBAH-UBAH INFO!!!
 const nomer = 'Wa.me/+6281252402180'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
 const groupwhatsapp = 'https://chat.whatsapp.com/GU6NsgZvfgw37vrjIxUPhP'; // JANGAN UBAH-UBAH INFO!!!
